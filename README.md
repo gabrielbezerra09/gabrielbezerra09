@@ -4,11 +4,9 @@
 
 Hello! My name is **Gabriel Bezerra**, I'm 15 years old and I'm a **Web Development, Design and Programming Student** who just discovered his love for Computer Science.
 
-🌟 I love programming and applying my knowledge in areas such as Data Science and Artificial Intelligence.
-
 📚 I am currently pursuing a **Technical Degree in Web Development** (Informática para Internet).
 
-🌍 I love learning new languages! Currently, I speak Portuguese and English.
+🌍 Currently, I speak Portuguese and English.
 
 ---
 
@@ -28,3 +26,4 @@ Hello! My name is **Gabriel Bezerra**, I'm 15 years old and I'm a **Web Developm
 You can find me on:
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielbezerra09)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoBackgroundColor=000000)](mailto:gabrielbezerragomes80@gmail.com)

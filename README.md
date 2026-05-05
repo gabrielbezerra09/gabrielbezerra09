@@ -28,4 +28,4 @@ Hello! My name is **Gabriel Bezerra**, I'm 15 years old and I'm a **Web Developm
 
 - Github: [gabrielbezerra09](http://github.com/gabrielbezerra09)
 - Email: [gabrielbezerra80@gmail.com](mailto:gabrielbezerragomes80@gmail.com)
-- Instagram: [@_g.bezerra11](http://instagram.com/_g.bezerra11
+- Instagram: [@_g.bezerra11](http://instagram.com/_g.bezerra11)

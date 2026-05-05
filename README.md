@@ -11,9 +11,9 @@ Hi! My name is Gabriel, I'm 15 years and I'm from Brazil.
 🌟 I love programming! I'm learning to program in three languages currently:
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3 Badge](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css&logoColor=black)
 
 ### Data Science
-![Python](https://img.shields.io/badge/PYTHON-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-%2314354C.svg?style=for-the-badge&logo=python&logoColor=black)
 

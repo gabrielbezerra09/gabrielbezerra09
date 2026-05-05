@@ -23,7 +23,5 @@ Hello! My name is **Gabriel Bezerra**, I'm 15 years old and I'm a **Web Developm
 
 ## ✉️ Contact Me
 
-You can find me on:
-
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielbezerra09)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoBackgroundColor=000000)](mailto:gabrielbezerragomes80@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoBackgroundColor=000000)](mailto:gabrielbezerra80@gmail.com)

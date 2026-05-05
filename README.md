@@ -10,26 +10,16 @@ Hello! My name is **Gabriel Bezerra**, I'm 15 years old and I'm a **Web Developm
 
 🌍 I love learning new languages! Currently, I speak Portuguese and English.
 
-
 ---
 
-## 🛠️ Tools and Technologies
+## Currently Learning
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoBackgroundColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoBackgroundColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoBackgroundColor=000000)
 
-### Useful Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white&logoBackgroundColor=000000)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoBackgroundColor=000000)
-
----
-
-## 📊 GitHub Statistics
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=vision-friendly-dark)
+### Programming Languages
+![Python](https://img.shields.io/badge/PYTHON-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -37,5 +27,4 @@ Hello! My name is **Gabriel Bezerra**, I'm 15 years old and I'm a **Web Developm
 
 You can find me on:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SUA_URL_DO_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[SEU-USUARIO])
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielbezerra09)

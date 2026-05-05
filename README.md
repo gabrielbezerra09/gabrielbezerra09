@@ -21,7 +21,7 @@ Hello! My name is **Gabriel Bezerra**, I'm 15 years old and I'm a **Web Developm
 
 ### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-E6E6FA?style=for-the-badge&logo=figma&logoColor=orange&logoBackgroundColor=000000)
-![Affinity Designer](https://img.shields.io/badge/Affinity-1B72BA?style=for-the-badge&logo=affinitydesigner&logoColor=white&logoBackgroundColor=008000)
+![Affinity Designer](https://img.shields.io/badge/Affinity-90EE90?style=for-the-badge&logo=affinitydesigner&logoColor=white&logoBackgroundColor=008000)
 
 ---
 

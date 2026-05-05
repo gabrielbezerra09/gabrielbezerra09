@@ -12,7 +12,7 @@ Hi! My name is Gabriel, I'm 15 years and I'm from Brazil.
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Data Science
 ![Python](https://img.shields.io/badge/PYTHON-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)

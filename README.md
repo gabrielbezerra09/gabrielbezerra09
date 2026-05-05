@@ -15,7 +15,7 @@ Hello! My name is **[Seu Nome]**, and I'm a **Web Development Student** passiona
 ## 🛠️ Tools and Technologies
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoBackgroundColor=000000)
+![HTML5](https://camo.githubusercontent.com/d366f9b7c29aef2ed3ce84974deb7caf4f1623d3e4d1fff9237bd973c2472f83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d68746d6c35266c6f676f436f6c6f723d453334463236)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoBackgroundColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoBackgroundColor=000000)
 

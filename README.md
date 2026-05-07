@@ -19,8 +19,8 @@ Meu nome é **Gabriel Bezerra**, tenho 15 anos e sou estudante de **Desenvolvime
 ![Python](https://img.shields.io/badge/PYTHON-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Ferramentas de Design
-![Figma](https://img.shields.io/badge/Figma-E6E6FA?style=for-the-badge&logo=figma&logoColor=orange&logoBackgroundColor=000000)
 ![Affinity](https://img.shields.io/badge/Affinity-90EE90?style=for-the-badge&logo=affinitydesigner&logoColor=white&logoBackgroundColor=000000)
+![Figma](https://img.shields.io/badge/Figma-E6E6FA?style=for-the-badge&logo=figma&logoColor=orange&logoBackgroundColor=000000)
 ---
 
 ## ✉️ Contato

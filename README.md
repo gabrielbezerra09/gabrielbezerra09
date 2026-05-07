@@ -4,7 +4,7 @@
 
 Meu nome é **Gabriel Bezerra**, tenho 15 anos e sou estudante de **Desenvolvimento Web, Design e Programação**.
 
-📚 Eu estou cursando o **Curso Técnico em Informática para Internet** no **IFRN - Campus Natal-Central**.
+📚 Eu estou cursando o **1° ano** do **Curso Técnico em Informática para Internet** no **IFRN - Campus Natal-Central**.
 
 🌍 Atualmente, eu falo Português e Inglês.
 

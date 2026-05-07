@@ -26,5 +26,5 @@ Meu nome é **Gabriel Bezerra**, tenho 15 anos e sou estudante de **Desenvolvime
 ## ✉️ Contato
 
 - Github: [gabrielbezerra09](http://github.com/gabrielbezerra09)
-- Email: [gabrielbezerra80@gmail.com](mailto:gabrielbezerragomes80@gmail.com)
+- Email: [gabrielbezerragomes80@gmail.com](mailto:gabrielbezerragomes80@gmail.com)
 - Instagram: [@_g.bezerra11](http://instagram.com/_g.bezerra11)

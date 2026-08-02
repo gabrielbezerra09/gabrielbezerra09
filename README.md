@@ -2,7 +2,7 @@
 
 ## ℹ️ Sobre mim
 
-Meu nome é **Gabriel Bezerra**, tenho 15 anos e sou estudante de **Desenvolvimento Web, Design e Programação**.
+Meu nome é **Gabriel Bezerra**. Sou estudante de **Desenvolvimento Web, Design e Programação**.
 
 📚 Eu estou cursando o **1° ano** do **Curso Técnico em Informática para Internet** no **IFRN - Campus Natal-Central**.
 

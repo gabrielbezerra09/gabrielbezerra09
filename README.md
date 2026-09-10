@@ -1,6 +1,6 @@
 # Opa! 👋
 
-## ℹ️ Sobre mim
+## Sobre mim
 
 Meu nome é **Gabriel Bezerra**. Sou estudante de **Desenvolvimento Web, Design e Programação**.
 
@@ -25,6 +25,5 @@ Meu nome é **Gabriel Bezerra**. Sou estudante de **Desenvolvimento Web, Design 
 
 ## ✉️ Contato
 
-- Github: [gabrielbezerra09](http://github.com/gabrielbezerra09)
 - Email: [gabrielbezerragomes80@gmail.com](mailto:gabrielbezerragomes80@gmail.com)
 - Instagram: [@_g.bezerra11](http://instagram.com/_g.bezerra11)

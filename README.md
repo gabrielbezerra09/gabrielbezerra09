@@ -32,15 +32,15 @@ Meu nome é **Gabriel Bezerra**. Sou estudante de **Desenvolvimento Web, Design 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/gabrielbezerra09/gabrielbezerra09/output/pacman-contribution-graph-dark.svg"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/gabrielbezerra09/gabrielbezerra09/output/pacman-contribution-graph.svg"
     >
     <img
       alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/gabrielbezerra09/gabrielbezerra09/output/pacman-contribution-graph.svg"
     >
   </picture>
 </p>

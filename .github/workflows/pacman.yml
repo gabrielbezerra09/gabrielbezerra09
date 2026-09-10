@@ -4,25 +4,30 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Pacman
+      - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+          hide_month_labels: 'false'
 
-      - name: Commit generated files
-        uses: EndBug/add-and-commit@v9
+      - name: Push generated SVGs
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          message: "chore: update pacman contribution graph"
-          add: "output"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

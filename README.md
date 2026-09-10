@@ -28,28 +28,19 @@ Meu nome é **Gabriel Bezerra**. Sou estudante de **Desenvolvimento Web, Design 
 - Email: [gabrielbezerragomes80@gmail.com](mailto:gabrielbezerragomes80@gmail.com)
 - Instagram: [@_g.bezerra11](http://instagram.com/_g.bezerra11)
 
-name: Generate Pacman Contribution Graph
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "chore: update pacman contribution graph"
-          add: "output"
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg"
+    >
+  </picture>
+</p>

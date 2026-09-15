@@ -17,6 +17,7 @@ Meu nome é **Gabriel Bezerra**. Sou estudante de **Desenvolvimento Web, Design 
 
 ### Linguagens de programação
 ![Python](https://img.shields.io/badge/PYTHON-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Ferramentas de Design
 ![Affinity](https://img.shields.io/badge/Affinity-90EE90?style=for-the-badge&logo=affinitydesigner&logoColor=white&logoBackgroundColor=000000)
